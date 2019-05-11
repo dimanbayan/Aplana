@@ -1,5 +1,9 @@
 package part2;
 
+/*
+Задача №5: Таблица умножения
+ */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
