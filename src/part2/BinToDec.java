@@ -1,7 +1,7 @@
 package part2;
 
 /*
-Задача №5: Таблица умножения
+Задача №4: Отработка поразрядных операций
  */
 
 import java.io.BufferedReader;
